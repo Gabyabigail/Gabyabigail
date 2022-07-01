@@ -1,12 +1,8 @@
-### Hi there 👋
+## Sobre mim 
 
-<!--
-**Gabyabigail/Gabyabigail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 👋 olá meu nome é @Gabyabigail
+- 🔭 Eu estou enteressada em terninar esse curso
+- 🌱 Eu estou aprendendo 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
